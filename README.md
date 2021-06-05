@@ -5,4 +5,13 @@
 <!---
 MetaverseQuantum/MetaverseQuantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Metaverse Quantum (MTQ) is a decentralized Cryptocurrency utility Token. How it works Metaverse Quantum (MTQ) will be Purchased by price determined by the exchanges and facilitate peer to peer transactions on a global scale as an alternative to centralized currency for example yen, the dollar, the euro and other currencies. Furthermore since Metaverse Quantum (MTQ) is decentralized independently its own currency it has no fixed price the exchanges determine its price by its supply and demand.
+---> MetaverseQuantum(MTQ) protocol is a community driven, launched Defi utility token cryptocurrency, digital currency created on the Ethereum blockchain 
+With 4 Multifunctional abilities that occur with each use of different functionalities:
+
+1. Replacements for sovereign currencies
+
+2. Automatic liquidity pool
+ 
+3. merchant services payments and Video games payments, sporting event payments and endless adoption and payments acceptance possibilities instead of using sovereign currencies
+
+4. Exchanges centralized and decentralized exchanges giving the full control to the Metaverse Quantum (MTQ) Cryptocurrency community

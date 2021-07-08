@@ -1,4 +1,4 @@
-![MetaveseQuantumlogo](https://lh3.googleusercontent.com/GKZBhTZH5n9QpcelcfqcXlKuz88eiXeuSz0ofPLFVjhAwY8toTVgfRo33jaAXmSYfFX-pyQ=s85)
+
 
 <!---
 MetaverseQuantum/MetaverseQuantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

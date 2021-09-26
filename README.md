@@ -122,6 +122,7 @@ Website created and makes news headlines with articles written about Metaverse Q
 Q2 2021
 
 Metaverse Quantum (MTQ) filed Form D with the Securities and Exchange Commission (SEC). Metaverse Quantum (MTQ) Form D Filing (SEC) Link 
+https://www.google.com/url?q=https%3A%2F%2Fwww.sec.gov%2Fedgar%2Fbrowse%2F%3FCIK%3D1868828&sa=D&sntz=1&usg=AFQjCNEYrvX9F50EnVnriLQOpMmtyJH22A
 
 Metaverse Quantum(MTQ) successfully listed on DexGuru and Uniswap with its own liquidity pool available to buy swap and trade with Ethereum liquidity pool successful. Metaverse Quantum(MTQ) got listed on 6 decentralized exchanges :
 

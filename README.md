@@ -31,7 +31,7 @@ Metaverse Quantum (MTQ) makes it faster, easier and no more having to pay higher
 
 
 
- azbit.com/exchange/MTQ_ETH 
+  https://azbit.com/exchange/MTQ_ETH
 
 
 
@@ -59,7 +59,7 @@ Any merchant interested in implementation of accepting Metaverse Quantum (MTQ) c
 
 
 
- azbit.com/exchange/MTQ_ETH 
+ https://azbit.com/exchange/MTQ_ETH
 
 
 
@@ -79,7 +79,7 @@ Currently available on Azbit centralized Exchange and also Tokpie centralized Ex
 
 
 
- azbit.com/exchange/MTQ_ETH 
+ https://azbit.com/exchange/MTQ_ETH
 
 
 
